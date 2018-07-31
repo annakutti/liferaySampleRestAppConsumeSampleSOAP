@@ -1,0 +1,4 @@
+Bundle-Name: happyrest
+Bundle-SymbolicName: happyrest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
